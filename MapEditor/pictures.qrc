@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>welcome.jfif</file>
+        <file>Totori.ico</file>
+    </qresource>
+</RCC>
